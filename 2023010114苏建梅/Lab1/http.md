@@ -62,7 +62,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 
 ```markdown
 ![请求头截图](req.png)
-![响应头截图](resp.png)
+
 ```
 
 ---
@@ -84,7 +84,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 **嵌入截图：**
 
 ![请求头截图](req.png)
-![alt text](req.png)
+
 ---
 
 ### B. 响应头（Response Headers）
@@ -99,7 +99,7 @@ HTTPS 在 HTTP 基础上加入了 TLS 加密，报文内容在传输过程中无
 **嵌入截图：**
 
 ![响应头截图](resp.png)
-![alt text](resq.png)
+
 ---
 
 ### C. 知识问答
